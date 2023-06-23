@@ -1,0 +1,9 @@
+Consigna:en una página de tu proyecto, aplica las diferentes funcionalidades vistas del framework Bootstrap.
+
+Opciones:
+
+●Columnas
+●Formularios
+●Menú
+●imágenes
+●Tablas
